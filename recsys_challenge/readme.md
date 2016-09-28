@@ -1,1 +1,1 @@
-## Here is my version of [RecSys Challenge 2015](http://2015.recsyschallenge.com/challenge.html) solution.
+Here is my version of [RecSys Challenge 2015](http://2015.recsyschallenge.com/challenge.html) solution, based on ideas of [Myklatun et al](http://www.idi.ntnu.no/~helgel/papers/MyklatunThorrudNguyenLangsethKofodPetersenRecsys15.pdf).
